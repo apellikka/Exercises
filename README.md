@@ -1,2 +1,2 @@
 # MOOC-Exercises
-Pieniä ohjelmia
+Harjoituksia
