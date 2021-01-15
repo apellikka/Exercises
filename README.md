@@ -1,3 +1,3 @@
-Exercises
+# Exercises
 Programming exercises
 
