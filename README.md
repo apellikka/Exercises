@@ -1,3 +1,3 @@
-# MOOC-Exercises
+Exercises
 Programming exercises
 
