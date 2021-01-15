@@ -1,2 +1,3 @@
 # MOOC-Exercises
-Harjoituksia
+Programming exercises
+
